@@ -3,6 +3,6 @@
     "comments": true
   },
   "rules": {
-    "no-todo": true
+    "@textlint-ja/no-synonyms": true
   }
 }
